@@ -1,0 +1,12 @@
+node_modules
+dist
+.git
+supabase
+Dockerfile
+docker-compose.yml
+.dockerignore
+README.md
+.gitignore
+.agents
+.gemini
+*.xlsx
